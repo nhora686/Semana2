@@ -1,0 +1,6 @@
+1 pwf
+2 mkdir semana2
+3 cd semana2
+4 toque preguntas-semana2.txtx
+5 tocar comandos-terminal.txtx
+6 toque reflexión-semana2.txtx
